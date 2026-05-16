@@ -98,7 +98,7 @@ Alternatively, host it on any static hosting service like Netlify, Vercel, or Re
 - **Modify color theme** – Update CSS variables or gradient definitions in the `<style>` section.  
 - **Extend chart to 14 days** – Change the `getLast7Days()` function logic and adjust the chart labels.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! If you have ideas for new features (e.g., monthly reports, CSV export, notifications), feel free to:
 
