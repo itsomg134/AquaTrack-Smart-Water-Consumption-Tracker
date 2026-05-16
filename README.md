@@ -65,7 +65,7 @@ water-consumption-tracker/
 
 > **Note:** The entire application is contained in a single HTML file, making it easy to deploy or customize.
 
-## 🔧 Installation & Local Setup
+## Installation & Local Setup
 
 1. **Clone the repository**
    ```bash
