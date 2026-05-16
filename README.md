@@ -120,7 +120,16 @@ Distributed under the **MIT License**. See `LICENSE` file for more information.
 - [Font Awesome](https://fontawesome.com/) for the crisp icons.
 - [Google Fonts](https://fonts.google.com/) for the Inter typeface.
 
-## Contact
+##  Contact
 
-Your Name – [@yourtwitter](https://twitter.com/yourtwitter) – email@example.com  
-Project Link: [https://github.com/yourusername/aquatrack](https://github.com/yourusername/aquatrack)
+Om Gedam
+
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
+
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
+
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
