@@ -24,7 +24,7 @@
 - ** Fully Responsive** – Works seamlessly on desktop, tablet, and mobile devices.
 - ** Modern UI** – Clean gradient design, smooth animations, and water‑inspired color palette.
 
-## 🚀 How to Use
+## How to Use
 
 1. **Add a new entry**  
    - Enter the amount (in liters) and select a date.  
