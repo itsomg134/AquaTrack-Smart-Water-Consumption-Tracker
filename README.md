@@ -91,7 +91,7 @@ You can deploy AquaTrack instantly using **GitHub Pages**:
 
 Alternatively, host it on any static hosting service like Netlify, Vercel, or Render.
 
-## 📖 Customization
+## Customization
 
 - **Change default daily goal** – Modify the `value` attribute of the input with ID `dailyGoalInput` (line ~210 in the HTML).  
 - **Adjust quick add options** – Edit the `<select id="quickSelect">` options (values in liters).  
