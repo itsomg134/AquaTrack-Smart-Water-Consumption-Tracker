@@ -120,13 +120,7 @@ Distributed under the **MIT License**. See `LICENSE` file for more information.
 - [Font Awesome](https://fontawesome.com/) for the crisp icons.
 - [Google Fonts](https://fonts.google.com/) for the Inter typeface.
 
-## 📧 Contact
+## Contact
 
 Your Name – [@yourtwitter](https://twitter.com/yourtwitter) – email@example.com  
 Project Link: [https://github.com/yourusername/aquatrack](https://github.com/yourusername/aquatrack)
-
----
-
-⭐ **If you find AquaTrack useful, please give it a star on GitHub!**  
-Made with 💧 and ☕ for a healthier, more hydrated world.
-```
