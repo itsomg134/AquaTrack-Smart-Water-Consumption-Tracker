@@ -114,7 +114,7 @@ Please ensure your code follows the existing style and does not break core funct
 
 Distributed under the **MIT License**. See `LICENSE` file for more information.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Chart.js](https://www.chartjs.org/) for the simple and powerful charting library.
 - [Font Awesome](https://fontawesome.com/) for the crisp icons.
