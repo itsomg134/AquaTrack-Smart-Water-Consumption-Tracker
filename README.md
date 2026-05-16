@@ -110,7 +110,7 @@ Contributions are welcome! If you have ideas for new features (e.g., monthly rep
 
 Please ensure your code follows the existing style and does not break core functionality.
 
-## 📄 License
+## License
 
 Distributed under the **MIT License**. See `LICENSE` file for more information.
 
