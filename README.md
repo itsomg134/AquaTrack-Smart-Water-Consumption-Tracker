@@ -80,7 +80,7 @@ water-consumption-tracker/
 3. **Optional – Use Live Server**  
    If you have VS Code, install the “Live Server” extension and right‑click `index.html` → “Open with Live Server” for auto‑refresh during development.
 
-## 🌐 Deployment
+## Deployment
 
 You can deploy AquaTrack instantly using **GitHub Pages**:
 
