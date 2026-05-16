@@ -7,10 +7,8 @@
 
 **AquaTrack** is a beautiful, interactive web application that helps you monitor your daily water intake, set hydration goals, and visualize your consumption patterns. Stay healthy and mindful about your hydration habits with an intuitive dashboard, real-time statistics, and persistent local storage.
 
-🔗 **Live Demo:** [AquaTrack Demo](#) *(replace with your GitHub Pages link)*
+<img width="1898" height="909" alt="image" src="https://github.com/user-attachments/assets/153ca733-3cbe-45fe-84a9-560b9e05c4ce" />
 
-![AquaTrack Screenshot](https://via.placeholder.com/800x450?text=AquaTrack+Dashboard+Preview)  
-*(Add a real screenshot of your app here)*
 
 ## Features
 
