@@ -54,7 +54,7 @@
 - **Font Awesome** – Icon library for visual enhancement
 - **Google Fonts** – Inter typeface for modern typography
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 water-consumption-tracker/
