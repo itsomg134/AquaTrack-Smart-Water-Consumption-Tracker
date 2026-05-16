@@ -14,7 +14,7 @@
 
 ## Features
 
-- **📝 Log Water Intake** – Add your daily water consumption in liters with a specific date.
+- ** Log Water Intake** – Add your daily water consumption in liters with a specific date.
 - **⚡ Quick Add Presets** – One‑click logging for common amounts (glass, bottle, 1L, 1.5L).
 - **🎯 Personalized Daily Goal** – Set and update your own hydration target (default 2.7L).
 - **📊 Weekly Overview Chart** – Beautiful bar chart showing your last 7 days of water intake using Chart.js.
